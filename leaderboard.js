@@ -90,8 +90,8 @@ function clearInput(){
 function sortPlayers() {
   let PlayerRow = Array.from(downTable.getElementsByTagName('tr'));
   PlayerRow.sort((playerA, playerB) => {
-      let playerScoreA = Number(playerA.children[3].innerHTML); // score A
-      let playerScoreB = Number(playerB.children[3].innerHTML); // score B
+      let playerScoreA = Number(playerA.children[3].innerHTML);
+      let playerScoreB = Number(playerB.children[3].innerHTML); 
       return playerScoreB - playerScoreA; 
   });
   PlayerRow.forEach(player => downTable.append(player)); 
