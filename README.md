@@ -11,4 +11,8 @@ The Dynamic Leaderboard Application is an interactive and user-friendly platform
 4. **Real-Time Sorting**: The leaderboard automatically updates and sorts players based on their scores in descending order.
 5. **Input Validation**: Ensures all required fields are filled before adding a player.
 
+# User-Interface
+![image](https://github.com/user-attachments/assets/24c24653-e42e-4095-847f-46d56baf4405)
+
+![image](https://github.com/user-attachments/assets/8810b742-66a6-4c21-b79f-a6557a354af3)
 
